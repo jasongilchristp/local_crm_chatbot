@@ -1,11 +1,16 @@
-# CRM ChatBot - Modular Streamlit Version
+# CRM Local ChatBot
 
 A clean, modular Streamlit chatbot that connects to a local Ollama instance and acts as a Microsoft D365 PowerApps tutor.
+
+## Clone this Project
+```bash
+https://github.com/jasongilchristp/local_crm_chatbot.git
+```
 
 ## Project structure
 
 ```text
-ollama_chatbot/
+local_crm_chatbot/
 ├── app.py
 ├── README.md
 ├── requirements.txt
